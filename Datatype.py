@@ -27,7 +27,7 @@ print("a is of type",type(a))
 
 # TEXT TYPES
 # string
-a = 'Ahimsa Jain'
+a = 'Prahlad Gurjar'
 print("a is of type",type(a))
 
 # BOOLEAN TYPES
